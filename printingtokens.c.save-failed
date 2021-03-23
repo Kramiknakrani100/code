@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+
+    char s[1000];
+    int n,k,i;
+
+
+     //scanf("%s",&s[0]);
+     gets(s);
+     puts(s);
+     k = strlen(s);
+     printf("%d",k);
+     char m;
+     m = " ";
+    for(i=1;i<=k;i++)
+    {
+        if(k == m)
+        {
+            printf("\n");
+        }
+    }
+
+    //Write your logic to print the tokens of the sentence here.
+    return 0;
+}

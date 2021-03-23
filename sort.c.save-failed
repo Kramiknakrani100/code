@@ -1,0 +1,30 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+ int main()
+{
+    {
+        int i,j;
+
+        scanf("%d",&i);
+        scanf("%d",&j);
+
+        double x,y;
+
+        //scanf("%if",&x);
+        //scanf("%if",&y);
+
+        char s[]="HackerRank";
+
+        printf("%d \n",i+j);
+
+        //printf("%if \n",x+y);
+
+        {
+            for(int k=0;k<=10;k++);
+        }
+    printf("%c is the best place to learn and practice coding!",s[k);
+    }
+}
