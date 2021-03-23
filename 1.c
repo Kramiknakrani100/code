@@ -6,7 +6,7 @@
 int main() {
     int i = 4;
     double d = 4.0;
-    char s[] = "HackerRank ";
+    char s[] = "Kramik ";
         int j;
         scanf("%d",&j);
         printf("%d \n",i+j);
